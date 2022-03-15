@@ -1,2 +1,2 @@
-# React_TS
+# React_
 Created with CodeSandbox
